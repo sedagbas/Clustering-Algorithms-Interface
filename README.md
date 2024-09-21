@@ -10,3 +10,8 @@ This project aims to design a user-friendly interface for clustering data, lever
   4. The "Parameter Dialogs" module allows users to adjust the parameters of various clustering algorithms via a graphical user interface using PyQt5, and enables running these algorithms. It provides a dialog box for each parameter adjustment, collecting the user's input parameters, and then executes the relevant clustering algorithm.
 
 OUTPUTS 
+![initialSolution](https://github.com/user-attachments/assets/93c66bfc-5a1a-4c6a-9485-58a2b04679f2)
+
+![kMeansDialog](https://github.com/user-attachments/assets/048ec292-6fcb-4f61-a8e9-a7058c3dc302)
+
+![finalSolution](https://github.com/user-attachments/assets/29c62f63-ff84-44cd-81e7-cb63b154338c)
